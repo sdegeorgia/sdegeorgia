@@ -14,5 +14,5 @@ I spend most of my time wrangling genomic data in R, mining multi-omic datasets,
 I'm native in both English 🇺🇸 and German 🇩🇪  
 Beyond science, I channel my focus into endurance sports and hands-on problem solving — from triathlon training to home renovations.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/sdegeorgia/)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sophia-degeorgia-phd-3302a580/)  
 Pronouns: she/her
