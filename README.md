@@ -4,8 +4,6 @@ I'm a computational biologist with a Ph.D. and a strong focus on next-generation
 
 Most of my experience is in R, bash, and Python, working with large-scale genomic datasets to support everything from CRISPR screens to chromatin accessibility and CNV analysis. I like taking problems from raw data all the way through to clean, interpretable results — and making those workflows reproducible for the rest of the team.
 
-At the end of the day, I love digging into the data to figure out what it's really trying to say.
-
 #### Recent work:
 - Predicted drug resistance mechanisms in melanoma using statistical models and validated them in cell culture  
 - Developed internal tools for [CNV detection](https://www.github.com/sdegeorgia/CANVAS-summary), [long-read viral integration](https://github.com/sdegeorgia/LAAVA-summary), and [melanoma drug resistance and phenotype switching drivers](https://github.com/sdegeorgia/Melanoma_Drug_Resistance_Data)
