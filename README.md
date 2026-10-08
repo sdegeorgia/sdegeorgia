@@ -1,16 +1,10 @@
-# Hi, I'm Sophia! 👋
+# Hi, I'm Sophia!
 
-I'm a computational biologist (Ph.D.) and data analyst based in Freiburg, Germany 🇩🇪, with a background in cancer genomics and a growing focus on data science, competitive intelligence, and strategic analysis in healthcare and biopharma.
+I'm a computational biologist (Ph.D.) and data analyst based in Freiburg, Germany, with a background in cancer genomics and a growing focus on data science, bioinformatics, and strategic analysis in healthcare and biopharma.
 
-I specialize in turning messy, complex biomedical data into clear, decision-relevant insights — whether that's a competitive landscape analysis of a clinical trial space, a reproducible genomics pipeline, or a market characterization built from public data sources.
+I love turning messy, complex biomedical data into clear, decision-relevant insights. Whether that's a competitive landscape analysis of a clinical trial space, a reproducible genomics pipeline, or a personal Ironman training tracking software.
 
 My toolkit is primarily R and Python, with experience across the full analysis workflow: API data collection, data cleaning and wrangling, statistical modeling, and visualization for both technical and non-technical audiences.
 
-#### Recent work:
-- [Competitive landscape analysis](https://github.com/sdegeorgia/adc-clinical-trial-landscape/) of ADC clinical trials using the ClinicalTrials.gov API — sponsor analysis, indication trends, CAGR modeling 
-- Developed internal tools for [CNV detection](https://www.github.com/sdegeorgia/CANVAS-summary), [long-read viral integration](https://github.com/sdegeorgia/LAAVA-summary), and [melanoma drug resistance and phenotype switching drivers](https://github.com/sdegeorgia/Melanoma_Drug_Resistance_Data)
-- Presented at international conferences; NSF and NIH fellowship recipient
 
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sophia-degeorgia-phd-3302a580/)  
-Pronouns: she/her
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sophia-degeorgia-phd-3302a580/) 
